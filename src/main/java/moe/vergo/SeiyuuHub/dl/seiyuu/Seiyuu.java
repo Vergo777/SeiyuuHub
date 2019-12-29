@@ -1,4 +1,4 @@
-package moe.vergo.SeiyuuHub.dl;
+package moe.vergo.SeiyuuHub.dl.seiyuu;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

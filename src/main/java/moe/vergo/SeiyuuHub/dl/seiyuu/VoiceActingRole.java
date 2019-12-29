@@ -1,4 +1,4 @@
-package moe.vergo.SeiyuuHub.dl;
+package moe.vergo.SeiyuuHub.dl.seiyuu;
 
 public class VoiceActingRole {
     private String role;
