@@ -13,7 +13,7 @@ public class Seiyuu {
     private String givenName;
     private String familyName;
     private List<String> alternateNames;
-    private int memberFavourites;
+    private int memberFavorites;
     private String about;
     private List<VoiceActingRole> voiceActingRoles;
     private List<AnimeStaffPosition> animeStaffPositions;
@@ -46,8 +46,8 @@ public class Seiyuu {
         return alternateNames;
     }
 
-    public int getMemberFavourites() {
-        return memberFavourites;
+    public int getMemberFavorites() {
+        return memberFavorites;
     }
 
     public String getAbout() {
@@ -90,8 +90,8 @@ public class Seiyuu {
         this.alternateNames = alternateNames;
     }
 
-    public void setMemberFavourites(int memberFavourites) {
-        this.memberFavourites = memberFavourites;
+    public void setMemberFavorites(int memberFavorites) {
+        this.memberFavorites = memberFavorites;
     }
 
     public void setAbout(String about) {
